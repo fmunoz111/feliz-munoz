@@ -1,3 +1,4 @@
+
 sorry {
 	is-sorry: true;
 	didnt-sleep-enough-last-night: true;
@@ -11,7 +12,7 @@ body {
 
 pinche computadora {
 	badword: true; !important
-dontuse: probablyagoodidea;
+	dontuse: probablyagoodidea;
 	justajokesorryimdumb: true; !important
 }
 
@@ -22,16 +23,33 @@ a la maquina {
 }
 
 h10 {
-color:::purpl !important
+	color:::purpl !important
 
 
 0h20
  {{
-	woops: black;
+woops: black;
 }}
-colores:"rojos,azules''; !important
+	colores:"rojos,azules''; !important
 }
 
 h3 {
 	colores:nocoloresaquisenor;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	display: none;
+}}}
